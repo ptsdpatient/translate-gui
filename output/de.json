@@ -1,0 +1,104 @@
+{
+  "Title": {
+    "My Projects": "Meine Projekte",
+    "App Theme": "Anwendung Thema",
+    "No projects yet": "Noch keine Projekte",
+    "No results": "Keine Ergebnisse"
+  },
+  "Inventory": {
+    "inventory": "Inventar",
+    "Poured": "Geräuchert",
+    "Create Item": "Artikel erstellen",
+    "Title cannot be empty": "Titel kann nicht leer sein",
+    "Item created": "Artikel erstellt",
+    "Quantity": "Menge",
+    "Select Unit": "Wählen Sie die Einheit"
+  },
+  "Settings": {
+    "App Theme": {
+      "Title": "Anwendung Thema",
+      "Light": "Licht",
+      "Sun": "Sonne",
+      "Dark": "Dunkel",
+      "Abyss": "Abgrund"
+    },
+    "Data": {
+      "Title": "Daten",
+      "Export Data": "Ausfuhrdaten",
+      "Import Data": "Daten für die Einfuhr",
+      "Reset App Data": "App-Daten zurücksetzen"
+    },
+    "About": {
+      "Title": "Über uns",
+      "App version": "App-Version",
+      "Report": "Bericht"
+    }
+  },
+  "No Items": "Keine Artikel",
+  "Share": {
+    "No Items": "Keine Aktien"
+  },
+  "List": {
+    "Manage": {
+      "Input": "Titel",
+      "None": "Keine",
+      "Desc": "Desweiteren",
+      "List": "Liste",
+      "Notify": "Benachrichtigung",
+      "Remove Item": "Artikel entfernen",
+      "Set Reminder": "Zurück zur Übersicht",
+      "Pick Date/Time": "Abholdatum/Zeit",
+      "Description": "Warenbezeichnung",
+      "Item": "Waren",
+      "Add Item": "Artikel hinzufügen"
+    },
+    "Tabs": {
+      "Delete": "Löschen",
+      "To Do": "Zu tun",
+      "Done": "KAPITEL",
+      "To Buy": "Zum Kauf",
+      "In Cart": "In den Warenkorb",
+      "Notes": "Anmerkungen",
+      "Saved": "Gespeichert",
+      "Stash": "Stash",
+      "Doing": "Tun"
+    }
+  },
+  "Project": {
+    "Manage": {
+      "Input": "Titel",
+      "Todo": "Tod",
+      "Shopping": "Einkauf",
+      "Notes": "Anmerkungen",
+      "Kanban": "Kanban"
+    },
+    "Tile": {
+      "time": {
+        "justNow": "jetzt",
+        "secondsAgo": " PH 0  vor Sekunden",
+        "minuteAgo": " PH 0  vor der Minute",
+        "minutesAgo": " PH 0   vor Minuten",
+        "hourAgo": " PH 0  vor einer Stunde",
+        "hoursAgo": " PH 0  vor Stunden",
+        "dayAgo": " PH 0   vor einem Tag",
+        "daysAgo": " PH 0  Vor Tagen",
+        "monthAgo": " PH 0   vor einem Monat",
+        "monthsAgo": " PH 0   vor Monaten",
+        "yearAgo": " PH 0   vor einem Jahr",
+        "yearsAgo": " PH 0  vor Jahren"
+      }
+    }
+  },
+  "Digits": {
+    "0": "0",
+    "1": "1",
+    "2": "2",
+    "3": "3",
+    "4": "4",
+    "5": "5",
+    "6": "6",
+    "7": "7",
+    "8": "8",
+    "9": "9"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "Title": {
+    "My Projects": "我的项目",
+    "App Theme": "应用 主题",
+    "No projects yet": "还没有项目",
+    "No results": "无结果"
+  },
+  "Inventory": {
+    "inventory": "库存",
+    "Poured": "有诗人",
+    "Create Item": "创建项目",
+    "Title cannot be empty": "标题不能为空",
+    "Item created": "创建项目",
+    "Quantity": "终止原因",
+    "Select Unit": "选择单位"
+  },
+  "Settings": {
+    "App Theme": {
+      "Title": "应用 主题",
+      "Light": "光线",
+      "Sun": "太阳",
+      "Dark": "阴暗",
+      "Abyss": "纵深"
+    },
+    "Data": {
+      "Title": "数据",
+      "Export Data": "导出数据",
+      "Import Data": "导入数据",
+      "Reset App Data": "重置 App 数据"
+    },
+    "About": {
+      "Title": "关于",
+      "App version": "App 版本",
+      "Report": "报告"
+    }
+  },
+  "No Items": "无项目",
+  "Share": {
+    "No Items": "无要共享的项目"
+  },
+  "List": {
+    "Manage": {
+      "Input": "标题",
+      "None": "无",
+      "Desc": "国家",
+      "List": "列表",
+      "Notify": "通知",
+      "Remove Item": "删除项目",
+      "Set Reminder": "设置提醒",
+      "Pick Date/Time": "选择日期/时间",
+      "Description": "说明",
+      "Item": "项目",
+      "Add Item": "添加项目"
+    },
+    "Tabs": {
+      "Delete": "删除",
+      "To Do": "要执行",
+      "Done": "完成",
+      "To Buy": "买",
+      "In Cart": "在单元格中",
+      "Notes": "页:1",
+      "Saved": "已保存",
+      "Stash": "史达什",
+      "Doing": "这样做"
+    }
+  },
+  "Project": {
+    "Manage": {
+      "Input": "标题",
+      "Todo": "待办",
+      "Shopping": "购物",
+      "Notes": "页:1",
+      "Kanban": "关班"
+    },
+    "Tile": {
+      "time": {
+        "justNow": "刚才",
+        "secondsAgo": "# 秒前 秒前 # # 秒前 秒前 # # 秒前 秒前 秒前 秒前 秒前 秒前 秒前 秒前 秒前 秒前 秒前 秒前",
+        "minuteAgo": "一分钟前",
+        "minutesAgo": "0分钟前",
+        "hourAgo": "一小时前",
+        "hoursAgo": "0小时前",
+        "dayAgo": "# 一天前的爱人#",
+        "daysAgo": "几天前,我还得说",
+        "monthAgo": "一个月前",
+        "monthsAgo": "几个月前",
+        "yearAgo": "一年前的 时间轴:",
+        "yearsAgo": "0年前的岁月"
+      }
+    }
+  },
+  "Digits": {
+    "0": "0",
+    "1": "1",
+    "2": "2",
+    "3": "3",
+    "4": "4",
+    "5": "5",
+    "6": "6",
+    "7": "7",
+    "8": "8",
+    "9": "9"
+  }
+}

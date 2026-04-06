@@ -1,0 +1,104 @@
+{
+  "Title": {
+    "My Projects": "私のプロジェクト",
+    "App Theme": "アプリ テーマ:",
+    "No projects yet": "プロジェクトはまだありません",
+    "No results": "結果なし"
+  },
+  "Inventory": {
+    "inventory": "インベントリ",
+    "Poured": "プレジャー",
+    "Create Item": "アイテムを作成する",
+    "Title cannot be empty": "タイトルは空にすることはできません",
+    "Item created": "作成された項目",
+    "Quantity": "数量",
+    "Select Unit": "ユニットを選択"
+  },
+  "Settings": {
+    "App Theme": {
+      "Title": "アプリ テーマ:",
+      "Light": "ライトライト",
+      "Sun": "日曜日",
+      "Dark": "ダーク",
+      "Abyss": "アビス"
+    },
+    "Data": {
+      "Title": "データデータ",
+      "Export Data": "エクスポートデータ",
+      "Import Data": "インポートデータ",
+      "Reset App Data": "アプリデータのリセット"
+    },
+    "About": {
+      "Title": "新着情報",
+      "App version": "アプリ版",
+      "Report": "レポート"
+    }
+  },
+  "No Items": "アイテムなし",
+  "Share": {
+    "No Items": "シェアするアイテムはありません"
+  },
+  "List": {
+    "Manage": {
+      "Input": "タイトル",
+      "None": "なし",
+      "Desc": "デザート",
+      "List": "プロフィール",
+      "Notify": "お知らせ",
+      "Remove Item": "アイテムを削除",
+      "Set Reminder": "セットリマインダー",
+      "Pick Date/Time": "ピックアップ日/時間",
+      "Description": "コンテンツ",
+      "Item": "アイテム",
+      "Add Item": "アイテムを追加"
+    },
+    "Tabs": {
+      "Delete": "削除",
+      "To Do": "お問い合わせ",
+      "Done": "ログイン",
+      "To Buy": "購入する",
+      "In Cart": "カートを見る",
+      "Notes": "インフォメーション",
+      "Saved": "保存済み",
+      "Stash": "スタッシュ",
+      "Doing": "ドッキング"
+    }
+  },
+  "Project": {
+    "Manage": {
+      "Input": "タイトル",
+      "Todo": "トード",
+      "Shopping": "ショッピング",
+      "Notes": "インフォメーション",
+      "Kanban": "カンバン"
+    },
+    "Tile": {
+      "time": {
+        "justNow": "ただ今",
+        "secondsAgo": " PH 0   秒 前",
+        "minuteAgo": " PH 0 分前",
+        "minutesAgo": " PH 0   分 前",
+        "hourAgo": " PH 0 時間前",
+        "hoursAgo": " PH 0  時間前",
+        "dayAgo": " PH 0  日 前に",
+        "daysAgo": " PH 0  日 前に",
+        "monthAgo": " PH 0  月 前に",
+        "monthsAgo": " PH 0  ヶ月前",
+        "yearAgo": " PH 0   年 前に",
+        "yearsAgo": " PH 0   年 前に"
+      }
+    }
+  },
+  "Digits": {
+    "0": "0",
+    "1": "1",
+    "2": "2",
+    "3": "3",
+    "4": "4",
+    "5": "5",
+    "6": "6",
+    "7": "7",
+    "8": "8",
+    "9": "9"
+  }
+}

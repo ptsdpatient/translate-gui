@@ -1,0 +1,104 @@
+{
+  "Title": {
+    "My Projects": "Proyek saya",
+    "App Theme": "App Tema",
+    "No projects yet": "Belum ada proyek",
+    "No results": "Tidak ada hasil"
+  },
+  "Inventory": {
+    "inventory": "Inventaris",
+    "Poured": "Piver",
+    "Create Item": "Buat Butir",
+    "Title cannot be empty": "Judul tidak dapat kosong",
+    "Item created": "Butir dibuat",
+    "Quantity": "Quantity",
+    "Select Unit": "Pilih Unit"
+  },
+  "Settings": {
+    "App Theme": {
+      "Title": "App Tema",
+      "Light": "Cahaya",
+      "Sun": "Matahari",
+      "Dark": "Gelap",
+      "Abyss": "Abyss"
+    },
+    "Data": {
+      "Title": "Data",
+      "Export Data": "Ekspor Data",
+      "Import Data": "Impor Data",
+      "Reset App Data": "Reset Data App"
+    },
+    "About": {
+      "Title": "Tentang",
+      "App version": "Versi App",
+      "Report": "Laporan"
+    }
+  },
+  "No Items": "Tak ada butir",
+  "Share": {
+    "No Items": "Tak ada butir yang akan dibagikan"
+  },
+  "List": {
+    "Manage": {
+      "Input": "Judul",
+      "None": "Nihil",
+      "Desc": "Desc",
+      "List": "Daftar",
+      "Notify": "Beritahu",
+      "Remove Item": "Hapus Butir",
+      "Set Reminder": "Atur Pengingat",
+      "Pick Date/Time": "Pilih Tanggal / Waktu",
+      "Description": "Deskripsi",
+      "Item": "Butir",
+      "Add Item": "Tambah Butir"
+    },
+    "Tabs": {
+      "Delete": "Hapus",
+      "To Do": "¶ To Do",
+      "Done": "Selesai",
+      "To Buy": "Untuk Beli",
+      "In Cart": "Dalam Mobil",
+      "Notes": "Catatan",
+      "Saved": "Tersimpan",
+      "Stash": "Stash",
+      "Doing": "Lakukan"
+    }
+  },
+  "Project": {
+    "Manage": {
+      "Input": "Judul",
+      "Todo": "Todo",
+      "Shopping": "Belanja",
+      "Notes": "Catatan",
+      "Kanban": "Kanban"
+    },
+    "Tile": {
+      "time": {
+        "justNow": "hanya sekarang",
+        "secondsAgo": "_ _ PH _ 0 _ detik yang lalu",
+        "minuteAgo": "_ _ PH _ 0 _ _ menit yang lalu",
+        "minutesAgo": "_ _ PH _ 0 _ menit yang lalu",
+        "hourAgo": "_ _ PH _ 0 _ jam yang lalu",
+        "hoursAgo": "_ _ PH _ 0 _ _ jam yang lalu",
+        "dayAgo": "_ _ PH _ 0 _ _ hari yang lalu",
+        "daysAgo": "_ _ PH _ 0 _ _ hari yang lalu",
+        "monthAgo": "_ _ PH _ 0 _ _ bulan yang lalu",
+        "monthsAgo": "_ _ PH _ 0 _ _ bulan yang lalu",
+        "yearAgo": "_ _ PH _ 0 _ _ tahun yang lalu",
+        "yearsAgo": "_ _ PH _ 0 _ _ tahun yang lalu"
+      }
+    }
+  },
+  "Digits": {
+    "0": "0",
+    "1": "1",
+    "2": "2",
+    "3": "3",
+    "4": "4",
+    "5": "5",
+    "6": "6",
+    "7": "7",
+    "8": "8",
+    "9": "9"
+  }
+}

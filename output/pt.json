@@ -1,0 +1,104 @@
+{
+  "Title": {
+    "My Projects": "Meus Projetos",
+    "App Theme": "Aplicativo Tema",
+    "No projects yet": "Sem projetos ainda",
+    "No results": "Sem resultados"
+  },
+  "Inventory": {
+    "inventory": "Inventário",
+    "Poured": "Despejados",
+    "Create Item": "Criar Item",
+    "Title cannot be empty": "O título não pode estar em branco",
+    "Item created": "Item criado",
+    "Quantity": "Quantidade",
+    "Select Unit": "Selecionar unidade"
+  },
+  "Settings": {
+    "App Theme": {
+      "Title": "Aplicativo Tema",
+      "Light": "Luz",
+      "Sun": "Sol",
+      "Dark": "Escuro",
+      "Abyss": "Abismo"
+    },
+    "Data": {
+      "Title": "Dados",
+      "Export Data": "Exportar Dados",
+      "Import Data": "Importar Dados",
+      "Reset App Data": "Reiniciar os Dados da Aplicação"
+    },
+    "About": {
+      "Title": "Sobre",
+      "App version": "Versão da aplicação",
+      "Report": "Relatório"
+    }
+  },
+  "No Items": "Sem itens",
+  "Share": {
+    "No Items": "Sem itens a partilhar"
+  },
+  "List": {
+    "Manage": {
+      "Input": "Título",
+      "None": "Nenhum",
+      "Desc": "Desc",
+      "List": "Lista",
+      "Notify": "Notificar",
+      "Remove Item": "Remover item",
+      "Set Reminder": "Definir lembrete",
+      "Pick Date/Time": "Escolher data/hora",
+      "Description": "Designação das mercadorias",
+      "Item": "Item",
+      "Add Item": "Adicionar Item"
+    },
+    "Tabs": {
+      "Delete": "Apagar",
+      "To Do": "Para Fazer",
+      "Done": "Feito",
+      "To Buy": "Comprar",
+      "In Cart": "No Carrinho",
+      "Notes": "Notas",
+      "Saved": "Gravado",
+      "Stash": "Stash",
+      "Doing": "Fazendo"
+    }
+  },
+  "Project": {
+    "Manage": {
+      "Input": "Título",
+      "Todo": "A-fazer",
+      "Shopping": "Compras",
+      "Notes": "Notas",
+      "Kanban": "Kanban"
+    },
+    "Tile": {
+      "time": {
+        "justNow": "agora mesmo",
+        "secondsAgo": " PH 0   há segundos",
+        "minuteAgo": " PH 0   há um minuto",
+        "minutesAgo": " PH 0  há minutos",
+        "hourAgo": " PH 0   há uma hora",
+        "hoursAgo": " PH 0   há 1 hora",
+        "dayAgo": " PH 0   há um dia",
+        "daysAgo": " PH 0   há dias",
+        "monthAgo": " PH 0   há um mês",
+        "monthsAgo": " PH 0  há meses",
+        "yearAgo": " PH 0   há um ano",
+        "yearsAgo": " PH 0   há anos"
+      }
+    }
+  },
+  "Digits": {
+    "0": "0",
+    "1": "1",
+    "2": "2",
+    "3": "3",
+    "4": "4",
+    "5": "5",
+    "6": "6",
+    "7": "7",
+    "8": "8",
+    "9": "9"
+  }
+}

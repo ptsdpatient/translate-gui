@@ -1,0 +1,104 @@
+{
+  "Title": {
+    "My Projects": "مشاريعي",
+    "App Theme": "App الموضوع",
+    "No projects yet": "لا توجد مشاريع حتى الآن",
+    "No results": "لا نتائج"
+  },
+  "Inventory": {
+    "inventory": "المخزون",
+    "Poured": "Poured",
+    "Create Item": "البند المنشأ",
+    "Title cannot be empty": "لا يمكن أن يكون العنوان فارغاً",
+    "Item created": "البند المنشأ",
+    "Quantity": "الكمية",
+    "Select Unit": "الوحدة المختارة"
+  },
+  "Settings": {
+    "App Theme": {
+      "Title": "App الموضوع",
+      "Light": "الضوء",
+      "Sun": "الشمس",
+      "Dark": "الظلام",
+      "Abyss": "Abys"
+    },
+    "Data": {
+      "Title": "البيانات",
+      "Export Data": "بيانات التصدير",
+      "Import Data": "بيانات الاستيراد",
+      "Reset App Data": "Reset App Data"
+    },
+    "About": {
+      "Title": "بشأن",
+      "App version": "نسخة",
+      "Report": "التقرير"
+    }
+  },
+  "No Items": "لا بنود",
+  "Share": {
+    "No Items": "No items to share"
+  },
+  "List": {
+    "Manage": {
+      "Input": "العنوان",
+      "None": "لا",
+      "Desc": "Desc",
+      "List": "القائمة",
+      "Notify": "الإخطار",
+      "Remove Item": "البند",
+      "Set Reminder": "تعيين",
+      "Pick Date/Time": "تاريخ/تاريخ",
+      "Description": "الوصف",
+      "Item": "البند",
+      "Add Item": "البند"
+    },
+    "Tabs": {
+      "Delete": "تحذف",
+      "To Do": "لتفعل",
+      "Done": "تم",
+      "To Buy": "نخب الشراء",
+      "In Cart": "In Cart",
+      "Notes": "الحواشي",
+      "Saved": "منقذة",
+      "Stash": "Stash",
+      "Doing": "فعل"
+    }
+  },
+  "Project": {
+    "Manage": {
+      "Input": "العنوان",
+      "Todo": "Todo",
+      "Shopping": "التسوق",
+      "Notes": "الحواشي",
+      "Kanban": "كانبان"
+    },
+    "Tile": {
+      "time": {
+        "justNow": "الآن",
+        "secondsAgo": "قبل ثواني",
+        "minuteAgo": "قبل دقيقة",
+        "minutesAgo": "قبل دقائق",
+        "hourAgo": "قبل ساعة",
+        "hoursAgo": "قبل ساعات",
+        "dayAgo": "قبل يوم",
+        "daysAgo": "قبل أيام",
+        "monthAgo": "قبل شهر",
+        "monthsAgo": "قبل أشهر",
+        "yearAgo": "قبل عام",
+        "yearsAgo": "قبل سنوات"
+      }
+    }
+  },
+  "Digits": {
+    "0": "0",
+    "1": "1",
+    "2": "2",
+    "3": "3",
+    "4": "4",
+    "5": "5",
+    "6": "6",
+    "7": "7",
+    "8": "8",
+    "9": "9"
+  }
+}

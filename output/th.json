@@ -1,0 +1,104 @@
+{
+  "Title": {
+    "My Projects": "โครงการของผม",
+    "App Theme": "แอป ชุดตกแต่ง",
+    "No projects yet": "ยังไม่มีโครงการ",
+    "No results": "ไม่มีผล"
+  },
+  "Inventory": {
+    "inventory": "บันทึกย่อ",
+    "Poured": "ริน",
+    "Create Item": "สร้างรายการ",
+    "Title cannot be empty": "ชื่อเรื่องไม่สามารถว่างได้",
+    "Item created": "รายการที่ถูกสร้าง",
+    "Quantity": "ความจุ",
+    "Select Unit": "เลือกหน่วย"
+  },
+  "Settings": {
+    "App Theme": {
+      "Title": "แอป ชุดตกแต่ง",
+      "Light": "แสง",
+      "Sun": "อาทิตย์",
+      "Dark": "เข้ม",
+      "Abyss": "Abys"
+    },
+    "Data": {
+      "Title": "ข้อมูล",
+      "Export Data": "ส่งออกข้อมูล",
+      "Import Data": "นําเข้าข้อมูล",
+      "Reset App Data": "ตั้งค่าข้อมูล App ใหม่"
+    },
+    "About": {
+      "Title": "เกี่ยวกับ",
+      "App version": "รุ่นของ App",
+      "Report": "รายงาน"
+    }
+  },
+  "No Items": "ไม่มีรายการ",
+  "Share": {
+    "No Items": "ไม่มีรายการที่จะใช้งานร่วมกัน"
+  },
+  "List": {
+    "Manage": {
+      "Input": "ชื่อ",
+      "None": "ไม่มี",
+      "Desc": "ถอดรหัส",
+      "List": "รายการ",
+      "Notify": "แจ้งให้ทราบ",
+      "Remove Item": "เอารายการออก",
+      "Set Reminder": "ตั้งการเตือนความจํา",
+      "Pick Date/Time": "เลือกวันที่/ เวลา",
+      "Description": "คําอธิบาย",
+      "Item": "รายการ",
+      "Add Item": "เพิ่มรายการ"
+    },
+    "Tabs": {
+      "Delete": "ลบ",
+      "To Do": "ทํา",
+      "Done": "เสร็จแล้ว",
+      "To Buy": "เพื่อซื้อ",
+      "In Cart": "ใน คาร์ต",
+      "Notes": "บันทึกย่อ",
+      "Saved": "บันทึก",
+      "Stash": "หมุน & 90",
+      "Doing": "ทํา"
+    }
+  },
+  "Project": {
+    "Manage": {
+      "Input": "ชื่อ",
+      "Todo": "สิ่งที่จะทํา",
+      "Shopping": "ช็อปปิ้ง",
+      "Notes": "บันทึกย่อ",
+      "Kanban": "คันบัน"
+    },
+    "Tile": {
+      "time": {
+        "justNow": "ตอนนี้",
+        "secondsAgo": "PM 0 วินาทีก่อน",
+        "minuteAgo": "นาทีก่อน",
+        "minutesAgo": "PM 0 นาทีก่อน",
+        "hourAgo": "PM 0 ชั่วโมงก่อน",
+        "hoursAgo": "PM 0 ชั่วโมงก่อน",
+        "dayAgo": "PM 0 วันก่อน",
+        "daysAgo": "PHA  0 วันที่แล้ว",
+        "monthAgo": "เ พิ่มเมื่อเดือนก่อน",
+        "monthsAgo": "PM 0 เดือนก่อน",
+        "yearAgo": "PM 0 ปีก่อน",
+        "yearsAgo": "PM 0 ปีก่อน"
+      }
+    }
+  },
+  "Digits": {
+    "0": "0",
+    "1": "1",
+    "2": "2",
+    "3": "3",
+    "4": "4",
+    "5": "5",
+    "6": "6",
+    "7": "7",
+    "8": "8",
+    "9": "9"
+  }
+}

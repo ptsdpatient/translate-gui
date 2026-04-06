@@ -1,0 +1,104 @@
+{
+  "Title": {
+    "My Projects": "Мои проекты",
+    "App Theme": "Приложение Тема",
+    "No projects yet": "Пока нет проектов",
+    "No results": "Нет результатов"
+  },
+  "Inventory": {
+    "inventory": "Инвентаризация",
+    "Poured": "Налитый",
+    "Create Item": "Создать элемент",
+    "Title cannot be empty": "Название не может быть пустым",
+    "Item created": "Элемент созданный",
+    "Quantity": "Количество",
+    "Select Unit": "Выберите единицу"
+  },
+  "Settings": {
+    "App Theme": {
+      "Title": "Приложение Тема",
+      "Light": "Свет",
+      "Sun": "Солнце",
+      "Dark": "Темный",
+      "Abyss": "Бездна"
+    },
+    "Data": {
+      "Title": "Данные",
+      "Export Data": "Экспортные данные",
+      "Import Data": "Импорт данных",
+      "Reset App Data": "Сброс данных приложения"
+    },
+    "About": {
+      "Title": "О нас",
+      "App version": "Версия приложения",
+      "Report": "Доклад"
+    }
+  },
+  "No Items": "Нет предметов",
+  "Share": {
+    "No Items": "Нет предметов, которыми можно поделиться"
+  },
+  "List": {
+    "Manage": {
+      "Input": "Название",
+      "None": "Никто",
+      "Desc": "Деск",
+      "List": "Список",
+      "Notify": "Уведомить",
+      "Remove Item": "Удалить элемент",
+      "Set Reminder": "Напоминание",
+      "Pick Date/Time": "Выберите дату / время",
+      "Description": "Описание",
+      "Item": "Пункт",
+      "Add Item": "Добавить пункт"
+    },
+    "Tabs": {
+      "Delete": "Исключить",
+      "To Do": "Делать",
+      "Done": "Сделано",
+      "To Buy": "Купить",
+      "In Cart": "В тележке",
+      "Notes": "Заметки",
+      "Saved": "Спасенный",
+      "Stash": "Спрятать",
+      "Doing": "Делать"
+    }
+  },
+  "Project": {
+    "Manage": {
+      "Input": "Название",
+      "Todo": "Тодо",
+      "Shopping": "Шопинг",
+      "Notes": "Заметки",
+      "Kanban": "Канбан"
+    },
+    "Tile": {
+      "time": {
+        "justNow": "только сейчас",
+        "secondsAgo": " PH 0   секунды назад",
+        "minuteAgo": "PH 0   минута назад",
+        "minutesAgo": " PH 0   минут назад",
+        "hourAgo": "PH 0   час назад",
+        "hoursAgo": " PH 0   часов назад",
+        "dayAgo": " PH 0   день назад",
+        "daysAgo": " PH 0   дней назад",
+        "monthAgo": " PH 0   месяц назад",
+        "monthsAgo": " PH 0   месяцев назад",
+        "yearAgo": "PH 0   Год назад",
+        "yearsAgo": "PH 0   лет назад"
+      }
+    }
+  },
+  "Digits": {
+    "0": "0",
+    "1": "1",
+    "2": "2",
+    "3": "3",
+    "4": "4",
+    "5": "5",
+    "6": "6",
+    "7": "7",
+    "8": "8",
+    "9": "9"
+  }
+}

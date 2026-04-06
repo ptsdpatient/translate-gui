@@ -1,0 +1,104 @@
+{
+  "Title": {
+    "My Projects": "Dự án của tôi",
+    "App Theme": "Áp dụng Sắc thái",
+    "No projects yet": "Chưa có dự án",
+    "No results": "Không có kết quả"
+  },
+  "Inventory": {
+    "inventory": "Thiết kế",
+    "Poured": "Đã đổ",
+    "Create Item": "Tạo mục",
+    "Title cannot be empty": "Tên",
+    "Item created": "Mục đã tạo",
+    "Quantity": "Số lượng",
+    "Select Unit": "Chọn đơn vị"
+  },
+  "Settings": {
+    "App Theme": {
+      "Title": "Áp dụng Sắc thái",
+      "Light": "Làm sáng",
+      "Sun": "Mặt trời",
+      "Dark": "Tối",
+      "Abyss": "Abyss"
+    },
+    "Data": {
+      "Title": "Dữ liệu",
+      "Export Data": "Xuất dữ liệu",
+      "Import Data": "Nhập Dữ liệu",
+      "Reset App Data": "Đặt lại dữ liệu ứng dụng"
+    },
+    "About": {
+      "Title": "Giới thiệu",
+      "App version": "Phiên bản thích hợp",
+      "Report": "Báo cáo"
+    }
+  },
+  "No Items": "Không có mục",
+  "Share": {
+    "No Items": "Không có mục cần chia sẻ"
+  },
+  "List": {
+    "Manage": {
+      "Input": "Tựa",
+      "None": "Không có",
+      "Desc": "Desc",
+      "List": "Đường",
+      "Notify": "Thông báo",
+      "Remove Item": "Gỡ bỏ mục",
+      "Set Reminder": "Đặt nhắc nhở",
+      "Pick Date/Time": "Chọn Ngày/ Giờ",
+      "Description": "Mô tả",
+      "Item": "Mục",
+      "Add Item": "Thêm mục"
+    },
+    "Tabs": {
+      "Delete": "Xoá",
+      "To Do": "Phải làm",
+      "Done": "Hoàn tất",
+      "To Buy": "Để mua",
+      "In Cart": "Trong Cart",
+      "Notes": "Ghi chú",
+      "Saved": "Đã lưu",
+      "Stash": "Đá",
+      "Doing": "Đang làm"
+    }
+  },
+  "Project": {
+    "Manage": {
+      "Input": "Tựa",
+      "Todo": "Todo",
+      "Shopping": "Mua sắm",
+      "Notes": "Ghi chú",
+      "Kanban": "Kanban"
+    },
+    "Tile": {
+      "time": {
+        "justNow": "vừa nãy",
+        "secondsAgo": "PH 0 giây trước",
+        "minuteAgo": "H 0 phút trước",
+        "minutesAgo": "PH 0 phút trước",
+        "hourAgo": "PH 0 giờ trước",
+        "hoursAgo": "PH 0 giờ trước",
+        "dayAgo": "Hôm trước",
+        "daysAgo": "PH 0 ngày trước",
+        "monthAgo": "tháng trước",
+        "monthsAgo": "PH 0 tháng trước",
+        "yearAgo": "PH 0  năm trước",
+        "yearsAgo": "PH 0 năm trước"
+      }
+    }
+  },
+  "Digits": {
+    "0": "0",
+    "1": "1",
+    "2": "2",
+    "3": "3",
+    "4": "4",
+    "5": "5",
+    "6": "6",
+    "7": "7",
+    "8": "8",
+    "9": "9"
+  }
+}

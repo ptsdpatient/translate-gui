@@ -1,0 +1,104 @@
+{
+  "Title": {
+    "My Projects": "Mes projets",
+    "App Theme": "App Thème",
+    "No projects yet": "Pas encore de projets",
+    "No results": "Aucun résultat"
+  },
+  "Inventory": {
+    "inventory": "Inventaire",
+    "Poured": "Versé",
+    "Create Item": "Créer un élément",
+    "Title cannot be empty": "Le titre ne peut pas être vide",
+    "Item created": "Item créé",
+    "Quantity": "Quantité",
+    "Select Unit": "Sélectionnez une unité"
+  },
+  "Settings": {
+    "App Theme": {
+      "Title": "App Thème",
+      "Light": "Lumière",
+      "Sun": "Soleil",
+      "Dark": "Noir",
+      "Abyss": "Abyss"
+    },
+    "Data": {
+      "Title": "Données",
+      "Export Data": "Données sur l'exportation",
+      "Import Data": "Importer les données",
+      "Reset App Data": "Réinitialiser les données de l'application"
+    },
+    "About": {
+      "Title": "À propos",
+      "App version": "Version App",
+      "Report": "Rapport annuel"
+    }
+  },
+  "No Items": "Aucun élément",
+  "Share": {
+    "No Items": "Aucun élément à partager"
+  },
+  "List": {
+    "Manage": {
+      "Input": "Titre",
+      "None": "Aucune",
+      "Desc": "Désignation",
+      "List": "Liste",
+      "Notify": "Avis",
+      "Remove Item": "Supprimer l' élément",
+      "Set Reminder": "Définir le rappel",
+      "Pick Date/Time": "Choisir la date/l'heure",
+      "Description": "Désignation des marchandises",
+      "Item": "Point",
+      "Add Item": "Ajouter un élément"
+    },
+    "Tabs": {
+      "Delete": "Supprimer",
+      "To Do": "À faire",
+      "Done": "Fait",
+      "To Buy": "Acheter",
+      "In Cart": "Dans le panier",
+      "Notes": "Remarques",
+      "Saved": "Enregistrer",
+      "Stash": "Feuille",
+      "Doing": "Faire"
+    }
+  },
+  "Project": {
+    "Manage": {
+      "Input": "Titre",
+      "Todo": "À faire",
+      "Shopping": "Shopping",
+      "Notes": "Remarques",
+      "Kanban": "Kanban"
+    },
+    "Tile": {
+      "time": {
+        "justNow": "juste maintenant",
+        "secondsAgo": " PH 0   il y a des secondes",
+        "minuteAgo": " PH 0   il y a une minute",
+        "minutesAgo": " PH 0   il y a quelques minutes",
+        "hourAgo": " PH 0    il y a une heure",
+        "hoursAgo": " PH 0   il y a des heures",
+        "dayAgo": " PH 0   il y a un jour",
+        "daysAgo": " PH 0   il y a des jours",
+        "monthAgo": " PH 0   il y a un mois",
+        "monthsAgo": " PH 0   il y a des mois",
+        "yearAgo": " PH 0   il y a un an",
+        "yearsAgo": " PH 0   il y a des années"
+      }
+    }
+  },
+  "Digits": {
+    "0": "0",
+    "1": "1",
+    "2": "2",
+    "3": "3",
+    "4": "4",
+    "5": "5",
+    "6": "6",
+    "7": "7",
+    "8": "8",
+    "9": "9"
+  }
+}

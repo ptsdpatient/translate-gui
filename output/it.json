@@ -1,0 +1,104 @@
+{
+  "Title": {
+    "My Projects": "I miei progetti",
+    "App Theme": "App Tema",
+    "No projects yet": "Nessun progetto ancora",
+    "No results": "Nessun risultato"
+  },
+  "Inventory": {
+    "inventory": "Inventario",
+    "Poured": "Posseduto",
+    "Create Item": "Creare oggetto",
+    "Title cannot be empty": "Il titolo non può essere vuoto",
+    "Item created": "Articolo creato",
+    "Quantity": "Quantità",
+    "Select Unit": "Seleziona unità"
+  },
+  "Settings": {
+    "App Theme": {
+      "Title": "App Tema",
+      "Light": "Luce",
+      "Sun": "Sole",
+      "Dark": "Oscuro",
+      "Abyss": "Abisso"
+    },
+    "Data": {
+      "Title": "Dati",
+      "Export Data": "Esportazione dei dati",
+      "Import Data": "Importazione dei dati",
+      "Reset App Data": "Reset App Data"
+    },
+    "About": {
+      "Title": "Informazioni",
+      "App version": "Versione app",
+      "Report": "Relazione"
+    }
+  },
+  "No Items": "Nessun articolo",
+  "Share": {
+    "No Items": "Nessun elemento da condividere"
+  },
+  "List": {
+    "Manage": {
+      "Input": "Titolo",
+      "None": "Nessuno",
+      "Desc": "Des",
+      "List": "Elenco",
+      "Notify": "Notifica",
+      "Remove Item": "Rimuovi articolo",
+      "Set Reminder": "Set Rimettitore",
+      "Pick Date/Time": "Data di scelta/ora",
+      "Description": "Designazione",
+      "Item": "Articolo",
+      "Add Item": "Aggiungi articolo"
+    },
+    "Tabs": {
+      "Delete": "Cancella",
+      "To Do": "Da fare",
+      "Done": "Fatto",
+      "To Buy": "Per acquistare",
+      "In Cart": "Nel carrello",
+      "Notes": "Note",
+      "Saved": "Salvataggio",
+      "Stash": "Stash",
+      "Doing": "Fare"
+    }
+  },
+  "Project": {
+    "Manage": {
+      "Input": "Titolo",
+      "Todo": "Todo",
+      "Shopping": "Shopping",
+      "Notes": "Note",
+      "Kanban": "Kanban"
+    },
+    "Tile": {
+      "time": {
+        "justNow": "ora",
+        "secondsAgo": "Traduzione:",
+        "minuteAgo": " PH 0  minuto fa",
+        "minutesAgo": "Traduzione:",
+        "hourAgo": "Traduzione:",
+        "hoursAgo": "Traduzione:",
+        "dayAgo": " PH 0  giorno fa",
+        "daysAgo": " PH 0  giorni fa",
+        "monthAgo": " PH 0  mese fa",
+        "monthsAgo": " PH 0  mesi fa",
+        "yearAgo": " PH 0  anno fa",
+        "yearsAgo": " PH 0  anni fa"
+      }
+    }
+  },
+  "Digits": {
+    "0": "0",
+    "1": "1",
+    "2": "2",
+    "3": "3",
+    "4": "4",
+    "5": "5",
+    "6": "6",
+    "7": "7",
+    "8": "8",
+    "9": "9"
+  }
+}

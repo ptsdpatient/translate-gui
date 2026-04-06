@@ -1,0 +1,104 @@
+{
+  "Title": {
+    "My Projects": "Mis proyectos",
+    "App Theme": "App Tema",
+    "No projects yet": "Todavía no hay proyectos",
+    "No results": "No hay resultados"
+  },
+  "Inventory": {
+    "inventory": "Inventario",
+    "Poured": "Asegurado",
+    "Create Item": "Crear artículo",
+    "Title cannot be empty": "El título no puede estar vacío",
+    "Item created": "Tema creado",
+    "Quantity": "Cantidad",
+    "Select Unit": "Seleccionar unidad"
+  },
+  "Settings": {
+    "App Theme": {
+      "Title": "App Tema",
+      "Light": "Luz",
+      "Sun": "Sol",
+      "Dark": "Oscuro",
+      "Abyss": "Abyss"
+    },
+    "Data": {
+      "Title": "Datos",
+      "Export Data": "Exportar datos",
+      "Import Data": "Importar datos",
+      "Reset App Data": "Restablecer datos de aplicaciones"
+    },
+    "About": {
+      "Title": "Acerca de",
+      "App version": "Versión de la aplicación",
+      "Report": "Informe"
+    }
+  },
+  "No Items": "No hay elementos",
+  "Share": {
+    "No Items": "No hay artículos que compartir"
+  },
+  "List": {
+    "Manage": {
+      "Input": "Título",
+      "None": "Ninguno",
+      "Desc": "Desc",
+      "List": "Lista",
+      "Notify": "Notificar",
+      "Remove Item": "Quitar el artículo",
+      "Set Reminder": "Set Reminder",
+      "Pick Date/Time": "Fecha de selección/hora",
+      "Description": "Descripción",
+      "Item": "Tema",
+      "Add Item": "Add Item"
+    },
+    "Tabs": {
+      "Delete": "Suprimir",
+      "To Do": "Para hacer",
+      "Done": "Hecho",
+      "To Buy": "Para comprar",
+      "In Cart": "En el carro",
+      "Notes": "Notas",
+      "Saved": "Guardado",
+      "Stash": "Stash",
+      "Doing": "Hacer"
+    }
+  },
+  "Project": {
+    "Manage": {
+      "Input": "Título",
+      "Todo": "Todo",
+      "Shopping": "Compras",
+      "Notes": "Notas",
+      "Kanban": "Kanban"
+    },
+    "Tile": {
+      "time": {
+        "justNow": "ahora",
+        "secondsAgo": "Hace unos segundos",
+        "minuteAgo": "Hace un minuto",
+        "minutesAgo": "Hace unos minutos",
+        "hourAgo": "Hace una hora",
+        "hoursAgo": "Hace unas horas",
+        "dayAgo": "Hace un día",
+        "daysAgo": "Hace unos días",
+        "monthAgo": "Hace un mes",
+        "monthsAgo": "Hace meses",
+        "yearAgo": "Hace un año",
+        "yearsAgo": " PH 0  hace años"
+      }
+    }
+  },
+  "Digits": {
+    "0": "0",
+    "1": "1",
+    "2": "2",
+    "3": "3",
+    "4": "4",
+    "5": "5",
+    "6": "6",
+    "7": "7",
+    "8": "8",
+    "9": "9"
+  }
+}

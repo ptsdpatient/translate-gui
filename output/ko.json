@@ -1,0 +1,104 @@
+{
+  "Title": {
+    "My Projects": "내 프로젝트",
+    "App Theme": "앱 다운로드 이름 *",
+    "No projects yet": "아직 프로젝트 없음",
+    "No results": "결과 없음"
+  },
+  "Inventory": {
+    "inventory": "회사 소개",
+    "Poured": "뚱 베어",
+    "Create Item": "구매하기",
+    "Title cannot be empty": "제목은 비어있을 수 없습니다",
+    "Item created": "생성 된 항목",
+    "Quantity": "제품 정보",
+    "Select Unit": "단위 선택"
+  },
+  "Settings": {
+    "App Theme": {
+      "Title": "앱 다운로드 이름 *",
+      "Light": "제품 정보",
+      "Sun": "(주)",
+      "Dark": "한국어",
+      "Abyss": "에 의해"
+    },
+    "Data": {
+      "Title": "자료실",
+      "Export Data": "수출 자료",
+      "Import Data": "수입 데이터",
+      "Reset App Data": "앱 데이터 재설정"
+    },
+    "About": {
+      "Title": "제품정보",
+      "App version": "앱 버전",
+      "Report": "제품정보"
+    }
+  },
+  "No Items": "상품안내",
+  "Share": {
+    "No Items": "공유하기"
+  },
+  "List": {
+    "Manage": {
+      "Input": "이름 *",
+      "None": "이름 *",
+      "Desc": "사이트맵",
+      "List": "이름 *",
+      "Notify": "이름 *",
+      "Remove Item": "제품 설명",
+      "Set Reminder": "Reminder 설정",
+      "Pick Date/Time": "출발일/시간",
+      "Description": "제품 설명",
+      "Item": "제품 정보",
+      "Add Item": "기타 제품"
+    },
+    "Tabs": {
+      "Delete": "기타 제품",
+      "To Do": "으로",
+      "Done": "한국어",
+      "To Buy": "구매하기",
+      "In Cart": "장바구니",
+      "Notes": "지원하다",
+      "Saved": "지원하다",
+      "Stash": "주 메뉴",
+      "Doing": "지원하다"
+    }
+  },
+  "Project": {
+    "Manage": {
+      "Input": "이름 *",
+      "Todo": "으로",
+      "Shopping": "상품정보",
+      "Notes": "지원하다",
+      "Kanban": "숙박 플랜"
+    },
+    "Tile": {
+      "time": {
+        "justNow": "지금 시작",
+        "secondsAgo": " PH 0   초 전",
+        "minuteAgo": " PH 0   분 전",
+        "minutesAgo": " PH 0   분 전",
+        "hourAgo": " PH 0   시간 전",
+        "hoursAgo": " PH 0   시간 전",
+        "dayAgo": " PH 0   일 전",
+        "daysAgo": " PH 0   일 전",
+        "monthAgo": " PH 0   개월 전",
+        "monthsAgo": " PH 0   개월 전",
+        "yearAgo": " PH 0   1 년 전",
+        "yearsAgo": " PH 0  년 전"
+      }
+    }
+  },
+  "Digits": {
+    "0": "0",
+    "1": "1",
+    "2": "2",
+    "3": "3",
+    "4": "4",
+    "5": "5",
+    "6": "6",
+    "7": "7",
+    "8": "8",
+    "9": "9"
+  }
+}

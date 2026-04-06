@@ -1,0 +1,104 @@
+{
+  "Title": {
+    "My Projects": "मेरी परियोजना",
+    "App Theme": "ऐप विषय",
+    "No projects yet": "अभी तक कोई परियोजना नहीं",
+    "No results": "कोई परिणाम नहीं"
+  },
+  "Inventory": {
+    "inventory": "सूची",
+    "Poured": "Poured",
+    "Create Item": "आइटम बनाएं",
+    "Title cannot be empty": "शीर्षक खाली नहीं है",
+    "Item created": "आइटम बनाया",
+    "Quantity": "मात्रा",
+    "Select Unit": "यूनिट चुनें"
+  },
+  "Settings": {
+    "App Theme": {
+      "Title": "ऐप विषय",
+      "Light": "प्रकाश",
+      "Sun": "सूर्य",
+      "Dark": "अंधेरा",
+      "Abyss": "Abys"
+    },
+    "Data": {
+      "Title": "डेटा",
+      "Export Data": "निर्यात डेटा",
+      "Import Data": "आयात डेटा",
+      "Reset App Data": "ऐप डेटा रीसेट करें"
+    },
+    "About": {
+      "Title": "के बारे में",
+      "App version": "ऐप वर्शन",
+      "Report": "रिपोर्ट"
+    }
+  },
+  "No Items": "कोई आइटम नहीं",
+  "Share": {
+    "No Items": "साझा करने के लिए कोई आइटम नहीं"
+  },
+  "List": {
+    "Manage": {
+      "Input": "शीर्षक",
+      "None": "कोई नहीं",
+      "Desc": "डेस्क",
+      "List": "सूची",
+      "Notify": "अधिसूचना",
+      "Remove Item": "आइटम निकालें",
+      "Set Reminder": "सेट अनुस्मारक",
+      "Pick Date/Time": "तिथि/समय",
+      "Description": "विवरण",
+      "Item": "आइटम",
+      "Add Item": "आइटम जोड़ें"
+    },
+    "Tabs": {
+      "Delete": "डिलीट",
+      "To Do": "करना",
+      "Done": "दान",
+      "To Buy": "खरीदने के लिए",
+      "In Cart": "गाड़ी में",
+      "Notes": "नोट",
+      "Saved": "सेव",
+      "Stash": "हिन्दी",
+      "Doing": "डोइंग"
+    }
+  },
+  "Project": {
+    "Manage": {
+      "Input": "शीर्षक",
+      "Todo": "टोडो",
+      "Shopping": "खरीदारी",
+      "Notes": "नोट",
+      "Kanban": "कार्बन"
+    },
+    "Tile": {
+      "time": {
+        "justNow": "अभी",
+        "secondsAgo": " Ph 0 0 सेकंड पहले",
+        "minuteAgo": "0   0 मिनट पहले",
+        "minutesAgo": "0   0 मिनट पहले",
+        "hourAgo": "0   0 घंटे पहले",
+        "hoursAgo": "0 0 0 0 घंटे पहले",
+        "dayAgo": " PH 0                                                              ",
+        "daysAgo": "0 0 0 दिन पहले",
+        "monthAgo": " Ph 0 0 month ago",
+        "monthsAgo": " PH 0  महीने पहले",
+        "yearAgo": " PH 0   वर्ष पहले",
+        "yearsAgo": " P 0 0 0 वर्ष पहले"
+      }
+    }
+  },
+  "Digits": {
+    "0": "0",
+    "1": "1",
+    "2": "2",
+    "3": "3",
+    "4": "4",
+    "5": "5",
+    "6": "6",
+    "7": "7",
+    "8": "8",
+    "9": "9"
+  }
+}

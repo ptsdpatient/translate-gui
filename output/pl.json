@@ -1,0 +1,104 @@
+{
+  "Title": {
+    "My Projects": "Moje projekty",
+    "App Theme": "Aplikacja Motyw",
+    "No projects yet": "Brak projektów",
+    "No results": "Brak wyników"
+  },
+  "Inventory": {
+    "inventory": "Spis",
+    "Poured": "Pakowane",
+    "Create Item": "Utwórz element",
+    "Title cannot be empty": "Tytuł nie może być pusty",
+    "Item created": "Utworzony element",
+    "Quantity": "Ilość",
+    "Select Unit": "Wybierz jednostkę"
+  },
+  "Settings": {
+    "App Theme": {
+      "Title": "Aplikacja Motyw",
+      "Light": "Światło",
+      "Sun": "Słońce",
+      "Dark": "Ciemny",
+      "Abyss": "Abyss"
+    },
+    "Data": {
+      "Title": "Dane",
+      "Export Data": "Eksportuj dane",
+      "Import Data": "Importuj dane",
+      "Reset App Data": "Resetuj dane aplikacji"
+    },
+    "About": {
+      "Title": "O",
+      "App version": "Wersja aplikacji",
+      "Report": "Sprawozdanie"
+    }
+  },
+  "No Items": "Brak elementów",
+  "Share": {
+    "No Items": "Brak pozycji do udostępnienia"
+  },
+  "List": {
+    "Manage": {
+      "Input": "Tytuł",
+      "None": "Brak",
+      "Desc": "Desc",
+      "List": "Lista",
+      "Notify": "Powiadomienie",
+      "Remove Item": "Usuń element",
+      "Set Reminder": "Ustaw przypomnienie",
+      "Pick Date/Time": "Wybierz datę / czas",
+      "Description": "Opis",
+      "Item": "Pozycja",
+      "Add Item": "Dodaj element"
+    },
+    "Tabs": {
+      "Delete": "Usuń",
+      "To Do": "Do zrobienia",
+      "Done": "Gotowe",
+      "To Buy": "To Buy",
+      "In Cart": "W koszyku",
+      "Notes": "Uwagi",
+      "Saved": "Uratowana",
+      "Stash": "Stash",
+      "Doing": "Wykonywanie"
+    }
+  },
+  "Project": {
+    "Manage": {
+      "Input": "Tytuł",
+      "Todo": "Todo",
+      "Shopping": "Zakupy",
+      "Notes": "Uwagi",
+      "Kanban": "Kanban"
+    },
+    "Tile": {
+      "time": {
+        "justNow": "właśnie teraz",
+        "secondsAgo": "_ _ PH _ 0 _ _ seconds ago",
+        "minuteAgo": "_ _ PH _ 0 _ _ minute temu",
+        "minutesAgo": "_ _ PH _ 0 _ _ minutes temu",
+        "hourAgo": "_ _ PH _ 0 _ _ godzinę temu",
+        "hoursAgo": "_ _ PH _ 0 _ _ godzin temu",
+        "dayAgo": "_ _ PH _ 0 _ _ dni temu",
+        "daysAgo": "_ _ PH _ 0 _ _ dni temu",
+        "monthAgo": "_ _ PH _ 0 _ _ miesiąc temu",
+        "monthsAgo": "_ _ PH _ 0 _ _ miesiące temu",
+        "yearAgo": "_ _ PH _ 0 _ _ rok temu",
+        "yearsAgo": "_ _ PH _ 0 _ _ lata temu"
+      }
+    }
+  },
+  "Digits": {
+    "0": "0",
+    "1": "1",
+    "2": "2",
+    "3": "3",
+    "4": "4",
+    "5": "5",
+    "6": "6",
+    "7": "7",
+    "8": "8",
+    "9": "9"
+  }
+}

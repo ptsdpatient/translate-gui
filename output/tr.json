@@ -1,0 +1,104 @@
+{
+  "Title": {
+    "My Projects": "My Projects",
+    "App Theme": "App App App App App Tema",
+    "No projects yet": "Henüz proje yok",
+    "No results": "Sonuçlar yok"
+  },
+  "Inventory": {
+    "inventory": "Inventory",
+    "Poured": "Poured",
+    "Create Item": "Create Item",
+    "Title cannot be empty": "Başlık boş olamaz",
+    "Item created": "Oluşturulan makale",
+    "Quantity": "Sayı",
+    "Select Unit": "Unit Select Unit"
+  },
+  "Settings": {
+    "App Theme": {
+      "Title": "App App App App App Tema",
+      "Light": "Işık Işığı",
+      "Sun": "Güneş",
+      "Dark": "Dark",
+      "Abyss": "Abyss"
+    },
+    "Data": {
+      "Title": "Data",
+      "Export Data": "İhracat Data",
+      "Import Data": "İthalat Data",
+      "Reset App Data": "Uygulama Data"
+    },
+    "About": {
+      "Title": "About",
+      "App version": "App version",
+      "Report": "Rapor"
+    }
+  },
+  "No Items": "Hiçbir ürün yok",
+  "Share": {
+    "No Items": "Paylaşmak için ürün yok"
+  },
+  "List": {
+    "Manage": {
+      "Input": "Başlık:",
+      "None": "Hiçbir şey yok",
+      "Desc": "Desc",
+      "List": "Liste Listesi",
+      "Notify": "Notify",
+      "Remove Item": "1",
+      "Set Reminder": "Set Hatırlatıcı",
+      "Pick Date/Time": "Pick Date/Time",
+      "Description": "Açıklama",
+      "Item": "1",
+      "Add Item": "Ekle"
+    },
+    "Tabs": {
+      "Delete": "Delete",
+      "To Do": "Yapmalı",
+      "Done": "Done",
+      "To Buy": "Satın almak için",
+      "In Cart": "Kart içinde",
+      "Notes": "Notlar",
+      "Saved": "Saved",
+      "Stash": "Stash",
+      "Doing": "Doing"
+    }
+  },
+  "Project": {
+    "Manage": {
+      "Input": "Başlık:",
+      "Todo": "Todo",
+      "Shopping": "Alışveriş",
+      "Notes": "Notlar",
+      "Kanban": "Kanban"
+    },
+    "Tile": {
+      "time": {
+        "justNow": "sadece şimdi",
+        "secondsAgo": " PH 0   saniye önce",
+        "minuteAgo": " PH 0   dakika önce",
+        "minutesAgo": " PH 0   dakika önce",
+        "hourAgo": " PH 0   saat önce",
+        "hoursAgo": " PH 0   saatler önce",
+        "dayAgo": " PH 0   gün önce",
+        "daysAgo": " PH 0   günler önce",
+        "monthAgo": " PH 0   ay önce",
+        "monthsAgo": " PH 0   aylar önce",
+        "yearAgo": " PH 0   yıl önce",
+        "yearsAgo": " PH 0   yıl önce"
+      }
+    }
+  },
+  "Digits": {
+    "0": "0",
+    "1": "1",
+    "2": "2",
+    "3": "3",
+    "4": "4",
+    "5": "5",
+    "6": "6",
+    "7": "7",
+    "8": "8",
+    "9": "9"
+  }
+}
