@@ -1,0 +1,105 @@
+{
+  "Title": {
+    "My Projects": "My Projects",
+    "App Theme": "App Theme",
+    "No projects yet": "No projects yet",
+    "No results": "No results"
+  },
+  "Inventory": {
+    "inventory": "Inventory",
+    "Poured": "Poured",
+    "Create Item": "Create Item",
+    "Title cannot be empty": "Title cannot be empty",
+    "Item created":"Item created",
+    "Quantity": "Quantity",
+    "Select Unit": "Select Unit"
+
+  },
+  "Settings": {
+    "App Theme": {
+      "Title": "App Theme",
+      "Light": "Light",
+      "Sun": "Sun",
+      "Dark": "Dark",
+      "Abyss": "Abyss"
+    },
+    "Data": {
+      "Title": "Data",
+      "Export Data": "Export Data",
+      "Import Data": "Import Data",
+      "Reset App Data": "Reset App Data"
+    },
+    "About": {
+      "Title": "About",
+      "App version": "App version",
+      "Report": "Report"
+    }
+  },
+  "No Items": "No items",
+  "Share": {
+    "No Items": "No items to share"
+  },
+  "List": {
+    "Manage" : {
+      "Input": "Title",
+      "None": "None",
+      "Desc": "Desc",
+      "List": "List",
+      "Notify": "Notify",
+      "Remove Item": "Remove Item",
+      "Set Reminder": "Set Reminder",
+      "Pick Date/Time": "Pick Date/Time",
+      "Description": "Description",
+      "Item": "Item",
+      "Add Item" : "Add Item"
+    },
+    "Tabs": {
+      "Delete" : "Delete",
+      "To Do" : "To Do",
+      "Done" : "Done",
+      "To Buy" : "To Buy",
+      "In Cart" : "In Cart",
+      "Notes" : "Notes",
+      "Saved" : "Saved",
+      "Stash" : "Stash",
+      "Doing" : "Doing"
+    }
+  },
+  "Project": {
+    "Manage": {
+      "Input": "Title",
+      "Todo": "Todo",
+      "Shopping": "Shopping",
+      "Notes": "Notes",
+      "Kanban": "Kanban"
+    },
+    "Tile": {
+      "time": {
+        "justNow": "just now",
+        "secondsAgo": "{count} seconds ago",
+        "minuteAgo": "{count} minute ago",
+        "minutesAgo": "{count} minutes ago",
+        "hourAgo": "{count} hour ago",
+        "hoursAgo": "{count} hours ago",
+        "dayAgo": "{count} day ago",
+        "daysAgo": "{count} days ago",
+        "monthAgo": "{count} month ago",
+        "monthsAgo": "{count} months ago",
+        "yearAgo": "{count} year ago",
+        "yearsAgo": "{count} years ago"
+      }
+    }
+  },
+  "Digits": {
+    "0": "0",
+    "1": "1",
+    "2": "2",
+    "3": "3",
+    "4": "4",
+    "5": "5",
+    "6": "6",
+    "7": "7",
+    "8": "8",
+    "9": "9"
+  }
+}
