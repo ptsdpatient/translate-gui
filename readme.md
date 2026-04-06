@@ -2,6 +2,8 @@
 
 A dark-theme GUI tool for translating JSON localization files into multiple languages using a local LibreTranslate server.
 
+![preview](preview.png)
+
 Supports:
 
 * Multi-language batch translation
